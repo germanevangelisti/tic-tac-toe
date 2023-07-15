@@ -1,4 +1,4 @@
-# tic-tac-toe with IA
+# tic-tac-toe with AI
 
 ## How to:
 
