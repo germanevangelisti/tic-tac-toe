@@ -4,4 +4,5 @@
 
 On folder frontends run:
 
-`python -m console -X random -O minimax`
+-X/O player/random/minimax
+e.g: `python -m console -X random -O minimax`
